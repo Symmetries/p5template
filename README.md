@@ -8,15 +8,15 @@ cd path/to/project
 ```
 and then either run
 ```bash
-wget https://raw.githubusercontent.com/Symmetries/p5template/master/index.html
-wget https://raw.githubusercontent.com/Symmetries/p5template/master/sketch.js
-wget https://raw.githubusercontent.com/Symmetries/p5template/master/style.css
+wget https://diegolopez.me/p5template/index.html
+wget https://diegolopez.me/p5template/sketch.js
+wget https://diegolopez.me/p5template/style.css
 ```
 or
 ```bash
-curl https://raw.githubusercontent.com/Symmetries/p5template/master/index.html --output index.html
-curl https://raw.githubusercontent.com/Symmetries/p5template/master/sketch.js --output sketch.js
-curl https://raw.githubusercontent.com/Symmetries/p5template/master/style.css --output style.css
+curl https://diegolopez.me/p5template/index.html --output index.html
+curl https://diegolopez.me/p5template/sketch.js --output sketch.js
+curl https://diegolopez.me/p5template/style.css --output style.css
 ```
 
 You can also clone the repository or download it as `ZIP` if you prefer.
