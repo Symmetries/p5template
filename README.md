@@ -19,4 +19,4 @@ curl https://raw.githubusercontent.com/Symmetries/p5template/master/sketch.js --
 curl https://raw.githubusercontent.com/Symmetries/p5template/master/style.css --output style.css
 ```
 
-You can also clone the repository if you prefer.
+You can also clone the repository or download it as `ZIP` if you prefer.
