@@ -14,9 +14,9 @@ wget https://diegolopez.me/p5template/style.css
 ```
 or
 ```bash
-curl https://diegolopez.me/p5template/index.html --output index.html
-curl https://diegolopez.me/p5template/sketch.js --output sketch.js
-curl https://diegolopez.me/p5template/style.css --output style.css
+curl https://diegolopez.me/p5template/index.html -o index.html -s
+curl https://diegolopez.me/p5template/sketch.js -o sketch.js -s
+curl https://diegolopez.me/p5template/style.css -o style.css -s
 ```
 
 You can also clone the repository or download it as `ZIP` if you prefer.
